@@ -23,7 +23,7 @@ export default function Page() {
             , brought to you by Vercel.
           </p>
           <Link
-            href="/sign-in?redirect_url=http%3A%2F%2Fdashboard-lemon-eight-85.vercel.app%2Fdashboard"
+            href="/sign-in?redirect_url=https%3A%2F%2Fdashboard-lemon-eight-85.vercel.app%2Fdashboard"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
           >
             <span>Sign In</span> <ArrowRightIcon className="w-5 md:w-6" />
